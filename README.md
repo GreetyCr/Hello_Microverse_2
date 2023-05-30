@@ -33,7 +33,7 @@
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-**[Hello Microverse]** 
+**[Hello Microverse]** Is a project built to learn about workflow and best practices, also the usage of .gitignore
 
 ## 🛠 Built With <a name="built-with">No built needed</a>
 
